@@ -2,3 +2,12 @@
   box-shadow: none;
   border: none;
 }
+.footer-background{
+  background-color: #292929;
+  height: 200px;
+  color: white;
+}
+.ui.label.button{
+  background-color: black;
+  color: white;
+}
